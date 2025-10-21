@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Sentiment Analyzer 📈
 
 A powerful AI-powered tool that analyzes market sentiment from news articles and social media to help investors make data-driven decisions.
@@ -21,3 +22,7 @@ cd Stock-Sentiment-Analyzer
 
 # Install dependencies
 pip install -r requirements.txt
+=======
+# Stock-Sentiment-Analyzer
+Analyze stock sentiment from news &amp; social media. Track market mood with AI-powered insights. Make data-driven investment decisions. Stay ahead of market trends.
+>>>>>>> a6e4632767aa021fa3124e6a1871a5bd403363e1
